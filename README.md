@@ -8,6 +8,10 @@ The presentation showcases exciting new capabilities in TYPO3, including upcomin
 
 You can view the talk slides online here: **➡ [View Presentation](https://o-ba.github.io/unleash-your-superpower-t3dd25/)**
 
+## PDF export
+
+You can get the PDF version here: **➡ [PDF Export](https://github.com/o-ba/unleash-your-superpower-t3dd25/blob/main/unleash-your-superpower.pdf)**
+
 ## About the event
 
 [TYPO3 Developer Days](https://t3dd25.typo3.com/) is an annual gathering of TYPO3 developers, integrators, and enthusiasts. In 2025, the event was held in Karlsruhe, Germany, and brought together the community for sessions, workshops, and networking.
